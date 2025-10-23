@@ -2,7 +2,8 @@
 
 # 👋 My name is Matthews Santos but everyone calls me Matt!
 # I'm currently working on getting some certificates on BackEnd using Python, Data Science and DevOPS, in this order. 😬
-# From São Paulo/SP, Brazil
+# From São Paulo/SP, Brazil 
+# Native Portuguese, fluent English(B2 first) and basic Spanish/Italian
 # Looking for any positions on tech, even if all I do is to blow on a server to cool it down 😂
 # All the repositories on my profile are either from the courses I'm taking at Alura or for personnal pet projects(the Pokedex and RPG Character Creator)
 # Since I'm just playing around with my pet projects, they aren't on the most efficient form possible, so feel free to collaborate on them or just give your opinions on what could be added!
