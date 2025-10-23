@@ -6,7 +6,7 @@
 # Looking for any positions on tech, even if all I do is to blow on a server to cool it down 😂
 # All the repositories on my profile are either from the courses I'm taking at Alura or for personnal pet projects(the Pokedex and RPG Character Creator)
 # Since I'm just playing around with my pet projects, they aren't on the most efficient form possible, so feel free to collaborate on them or just give your opinions on what could be added!
-# If by any reason someone wants to get in touch, you can either send me an email on the address shown on my profile or through my Linkedin: www.linkedin.com/in/santosmatthewsalmeida
+# If by any reason someone wants to get in touch, you can either send me an email on the address shown on my profile or through my Linkedin: www.linkedin.com/in/santosmatthewsdev
 <div>
 <a href="https://github.com/MattDSantosDev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattDSantosDev&layout=compact&langs_count=7&theme=dracula"/>
